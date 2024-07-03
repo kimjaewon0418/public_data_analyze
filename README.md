@@ -1,1 +1,1 @@
-# public_data_analyze
+# 공공데이터를 활용한 데이터 분석(파이썬)
